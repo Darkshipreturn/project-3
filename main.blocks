@@ -1,1 +1,34 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="VpCZ5F_@9nImOA1=7G[L">mySprite</variable><variable type="KIND_SpriteKind" id="6#{?t:monYzA7^iSp.Y$">Player</variable><variable type="KIND_SpriteKind" id="3L+)_aKG1SWVnIr-]Xyb">Projectile</variable><variable type="KIND_SpriteKind" id="H`ORA`-{Dm;?MV5/gkW^">Food</variable><variable type="KIND_SpriteKind" id="cRZP;@,yZ2E~Q5DgV?Rt">Enemy</variable></variables><block type="pxt-on-start" id="V%I*oRt@h0c}k/,Z~-6," x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="VpCZ5F_@9nImOA1=7G[L">mySprite</variable><variable type="KIND_SpriteKind" id="6#{?t:monYzA7^iSp.Y$">Player</variable><variable type="KIND_SpriteKind" id="3L+)_aKG1SWVnIr-]Xyb">Projectile</variable><variable type="KIND_SpriteKind" id="H`ORA`-{Dm;?MV5/gkW^">Food</variable><variable type="KIND_SpriteKind" id="cRZP;@,yZ2E~Q5DgV?Rt">Enemy</variable></variables><block type="pxt-on-start" id="V%I*oRt@h0c}k/,Z~-6," x="50" y="30"><statement name="HANDLER"><block type="game_dialog_set_frame" id="G4Jaj^/Yuh|0Zh(n1Ok%"><value name="frame"><shadow type="dialog_image_picker" id="]L7fnvQ.rT1eL(}5%ERX"><field name="img">img`
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"]L7fnvQ.rT1eL(}5%ERX"}}</data></shadow></value><next><block type="variables_set" id=".wiY%iHOzG=)SjJ1_}!-"><field name="VAR" id="VpCZ5F_@9nImOA1=7G[L">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="5j1;H`%vn1#Pwg%p)XYo"><value name="img"><shadow type="screen_image_picker" id="[Z+0-4A9AVM((CNeFN92"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"[Z+0-4A9AVM((CNeFN92"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="5,Ar/rQ?1RDuwBaL=@2}"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
